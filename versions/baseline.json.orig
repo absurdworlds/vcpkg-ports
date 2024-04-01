@@ -1,11 +1,12 @@
 {
-  "default": {
 <<<<<<< HEAD
+  "default": {}
 =======
+  "default": {
     "awlib": {
       "baseline": "2024-04-01",
       "port-version": 0
     }
->>>>>>> 5f1b8a8 (Update versions database)
   }
+>>>>>>> 9e500cf (Update versions database)
 }
