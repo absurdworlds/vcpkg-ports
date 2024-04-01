@@ -1,7 +1,7 @@
 {
   "default": {
     "awlib": {
-      "baseline": "2024-04-01",
+      "baseline": "2024-04-01.1",
       "port-version": 0
     }
   }
